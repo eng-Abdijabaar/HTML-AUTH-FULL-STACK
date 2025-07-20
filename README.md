@@ -1,6 +1,6 @@
 # 🔐 HTML Auth - Authentication System
 
-A full-stack authentication system built with **HTML, CSS, JavaScript (vanilla)** on the frontend and **Node.js + Express** on the backend.  
+A full-stack authentication system built with **HTML, CSS, JavaScript** on the frontend and **Node.js + Express** on the backend.  
 It includes **registration**, **login**, **JWT authentication**, **profile management**, and **image uploads**.
 
 ---
